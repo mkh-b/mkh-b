@@ -10,4 +10,4 @@ Hello, I'm Bouchra. A young aspiring Data Analyst with multiple technical and an
 
 ## Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Check out my portfolio, where I showcase my projects.
