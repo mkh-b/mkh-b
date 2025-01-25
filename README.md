@@ -1,4 +1,3 @@
-# portfolio
 ## Introducing Myself
 
 Hello, I'm Bouchra. A young aspiring Data Analyst with multiple technical and analytical skills.
