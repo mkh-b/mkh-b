@@ -6,7 +6,7 @@ Hello, I'm Bouchra. A young aspiring Data Analyst with multiple technical and an
 - Processing and analysing data.
 - Performing statistical analysis.
 - Generating reports and developing data visualisation dashboards.
-- Ability to work with various languages (SQL, Python & R) and diverse platforms & softwares (MS Excel, MS Power BI, MySQL, R Studio, IBM SPSS, EViews, Google Looker Studio).
+- Ability to work with various languages (SQL, Python & R) and diverse platforms & softwares (MS Excel, MS Power BI, MySQL, R Studio, IBM SPSS, EViews, Google Sheets & Google Looker Studio).
 
 ## Projects
 
