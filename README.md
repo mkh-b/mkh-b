@@ -2,12 +2,12 @@
 
 Hello, I'm Bouchra and I'm a Data Analyst.
 
-### Skills:
+#### Skills:
 - Ability to work with various languages (SQL, Python & R) and diverse platforms & softwares (MS Excel, MS Power BI, MySQL, R Studio, IBM SPSS, Google Sheets & Google Looker Studio).
 - Statistical knowledge.
 - Data manipulation.
 
-### Services:
+#### Services:
 - Data Cleaning and Preprocessing.
 - Descriptive and Diagnostic Analysis.
 - Business Intelligence Reporting and Data Visualisation Dashboards.
