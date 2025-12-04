@@ -1,12 +1,17 @@
-## Introducing Myself
+## About Me
 
-Hello, I'm Bouchra. A young aspiring Data Analyst with multiple technical and analytical skills.
+Hello, I'm Bouchra and I'm a Data Analyst.
 
-- Collecting and cleaning datasets.
-- Processing and analysing data.
-- Performing statistical analysis.
-- Generating reports and developing data visualisation dashboards.
-- Ability to work with various languages (SQL, Python & R) and diverse platforms & softwares (MS Excel, MS Power BI, MySQL, R Studio, IBM SPSS, EViews, Google Sheets & Google Looker Studio).
+### Skills:
+- Ability to work with various languages (SQL, Python & R) and diverse platforms & softwares (MS Excel, MS Power BI, MySQL, R Studio, IBM SPSS, Google Sheets & Google Looker Studio).
+- Statistical knowledge.
+- Data manipulation.
+
+### Services:
+- Data Cleaning and Preprocessing.
+- Descriptive and Diagnostic Analysis.
+- Business Intelligence Reporting and Data Visualisation Dashboards.
+- Predictive Modeling.
 
 ## Projects
 
